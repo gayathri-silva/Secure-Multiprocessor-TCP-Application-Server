@@ -1,0 +1,79 @@
+Fri Apr  3 18:30:24 2026 | 127.0.0.1:47006 | 6497 | - | Register | OK 200 SID:1006 Command accepted
+Fri Apr  3 18:30:53 2026 | 127.0.0.1:47006 | 6497 | - | EGISTER | OK 200 SID:1006 Command accepted
+Fri Apr  3 18:31:22 2026 | 127.0.0.1:47006 | 6497 | testuser | REGISTER | OK 200 SID:1006 Registration successful
+Fri Apr  3 18:31:50 2026 | 127.0.0.1:47006 | 6497 | testuser | LOGIN | OK 200 SID:1006 Login successful token:TOK-testuser-221310
+Fri Apr  3 18:32:26 2026 | 127.0.0.1:47006 | 6497 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Fri Apr  3 18:33:16 2026 | 127.0.0.1:47006 | 6497 | testuser | LOGIN | OK 200 SID:1006 Login successful token:TOK-testuser-221396
+Fri Apr  3 18:33:28 2026 | 127.0.0.1:47006 | 6497 | testuser | Hello | OK 200 SID:1006 Command accepted
+Fri Apr  3 18:42:05 2026 | 127.0.0.1:54372 | 6620 | amal | REGISTER | OK 200 SID:1006 Registration successful
+Fri Apr  3 18:42:36 2026 | 127.0.0.1:54372 | 6620 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-221956
+Fri Apr  3 18:43:31 2026 | 127.0.0.1:47006 | 6497 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Fri Apr  3 18:43:45 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 18:44:09 2026 | 127.0.0.1:47006 | 6497 | Amal | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 18:44:33 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-222073
+Fri Apr  3 18:44:43 2026 | 127.0.0.1:47006 | 6497 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Fri Apr  3 18:45:13 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 18:45:24 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 18:45:32 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Fri Apr  3 19:25:28 2026 | 127.0.0.1:35240 | 6733 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-224528
+Fri Apr  3 19:28:53 2026 | 127.0.0.1:55800 | 7254 | gaya | REGISTER | OK 200 SID:1006 Registration successful
+Fri Apr  3 19:29:19 2026 | 127.0.0.1:55800 | 7254 | gaya | LOGIN | OK 200 SID:1006 Login successful token:TOK-gaya-224759
+Fri Apr  3 19:30:55 2026 | 127.0.0.1:55800 | 7254 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Fri Apr  3 19:33:37 2026 | 127.0.0.1:47006 | 6497 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-225017
+Fri Apr  3 19:35:23 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 19:35:31 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 19:35:39 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Fri Apr  3 19:35:56 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | OK 200 SID:1006 Login successful token:TOK-gaya-225156
+Fri Apr  3 19:36:36 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 19:36:43 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 401 SID:1006 Invalid credentials
+Fri Apr  3 19:36:50 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Fri Apr  3 19:37:01 2026 | 127.0.0.1:55346 | 7346 | gaya | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Tue Apr  7 08:42:28 2026 | 127.0.0.1:49626 | 4894 | wathi | REGISTER | OK 200 SID:1006 Registration successful
+Tue Apr  7 08:42:42 2026 | 127.0.0.1:49626 | 4894 | wathi | LOGIN | OK 200 SID:1006 Login successful token:TOK-wathi-531562
+Tue Apr  7 08:42:59 2026 | 127.0.0.1:49626 | 4894 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Tue Apr  7 08:43:16 2026 | 127.0.0.1:49626 | 4894 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-531596
+Tue Apr  7 08:43:27 2026 | 127.0.0.1:49626 | 4894 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Tue Apr  7 08:43:38 2026 | 127.0.0.1:49626 | 4894 | wathi | LOGIN | OK 200 SID:1006 Login successful token:TOK-wathi-531618
+Tue Apr  7 09:01:43 2026 | 127.0.0.1:46724 | 5355 | Gayathri | LOGIN | ERR 401 SID:1006 Invalid credentials
+Tue Apr  7 09:02:27 2026 | 127.0.0.1:34690 | 5384 | Gayathri | REGISTER | OK 200 SID:1006 Registration successful
+Tue Apr  7 09:02:41 2026 | 127.0.0.1:34690 | 5384 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-532761
+Tue Apr  7 09:06:11 2026 | 127.0.0.1:34690 | 5384 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Tue Apr  7 09:07:43 2026 | 127.0.0.1:49930 | 5445 | Gayathri | LOGIN | ERR 401 SID:1006 Invalid credentials
+Tue Apr  7 09:08:03 2026 | 127.0.0.1:49930 | 5445 | Gayathri | LOGIN | ERR 401 SID:1006 Invalid credentials
+Tue Apr  7 09:08:25 2026 | 127.0.0.1:49930 | 5445 | Gayathri | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Tue Apr  7 09:13:49 2026 | 127.0.0.1:49930 | 5445 | Gayathri | LOGIN | ERR 423 SID:1006 Account locked (brute-force)
+Tue Apr  7 09:16:59 2026 | 127.0.0.1:49626 | 4894 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533619
+Tue Apr  7 09:17:22 2026 | 127.0.0.1:34504 | 5557 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533642
+Tue Apr  7 09:17:47 2026 | 127.0.0.1:39180 | 5559 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533667
+Tue Apr  7 09:18:08 2026 | 127.0.0.1:60078 | 5564 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533688
+Tue Apr  7 09:18:24 2026 | 127.0.0.1:49930 | 5445 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533704
+Tue Apr  7 09:18:43 2026 | 127.0.0.1:60474 | 5567 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533723
+Tue Apr  7 09:19:08 2026 | 127.0.0.1:47538 | 5577 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533748
+Tue Apr  7 09:19:30 2026 | 127.0.0.1:56562 | 5590 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533770
+Tue Apr  7 09:19:48 2026 | 127.0.0.1:59374 | 5600 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533788
+Tue Apr  7 09:20:23 2026 | 127.0.0.1:52610 | 5612 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-533823
+Wed Apr  8 12:51:57 2026 | 127.0.0.1:52774 | 3114 | Gayathri | LOGIN | ERR 401 SID:1006 Invalid credentials
+Wed Apr  8 12:52:53 2026 | 127.0.0.1:52774 | 3114 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-632973
+Wed Apr  8 12:53:08 2026 | 127.0.0.1:52774 | 3114 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Sat Apr 11 13:45:04 2026 | 127.0.0.1:42070 | 5528 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-895304
+Sat Apr 11 13:45:21 2026 | 127.0.0.1:42070 | 5528 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Sun Apr 12 08:59:22 2026 | 127.0.0.1:50502 | 4849 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-964562
+Sun Apr 12 09:00:11 2026 | 127.0.0.1:50502 | 4849 | Gayathri | WHOAMI | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:00:33 2026 | 127.0.0.1:50502 | 4849 | Gayathri | WHOAMI | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:01:51 2026 | 127.0.0.1:50502 | 4849 | Gayathri | message | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:16 2026 | 127.0.0.1:47686 | 3182 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-965456
+Sun Apr 12 09:14:23 2026 | 127.0.0.1:47686 | 3182 | Gayathri | HELLO | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:23 2026 | 127.0.0.1:47686 | 3182 | Gayathri | SEND | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:23 2026 | 127.0.0.1:47686 | 3182 | Gayathri | CHAT | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:34 2026 | 127.0.0.1:47686 | 3182 | Gayathri | MYMESSAGE | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:34 2026 | 127.0.0.1:47686 | 3182 | Gayathri | SEND | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:14:34 2026 | 127.0.0.1:47686 | 3182 | Gayathri | CHAT | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:23:01 2026 | 127.0.0.1:59884 | 4240 | Gayathri | LOGIN | OK 200 SID:1006 Login successful token:TOK-Gayathri-965981
+Sun Apr 12 09:23:10 2026 | 127.0.0.1:59884 | 4240 | Gayathri | SEND | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:23:28 2026 | 127.0.0.1:59884 | 4240 | - | LOGOUT | OK 200 SID:1006 Logout successful
+Sun Apr 12 09:23:47 2026 | 127.0.0.1:59884 | 4240 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-966027
+Sun Apr 12 09:26:20 2026 | 127.0.0.1:59884 | 4240 | amal | SEND | OK 200 SID:1006 Command accepted
+Sun Apr 12 09:37:09 2026 | 127.0.0.1:59884 | 4240 | amal | OVERSIZE | ERR 413
+Sun Apr 12 09:46:14 2026 | 127.0.0.1:52652 | 5173 | amal | LOGIN | OK 200 SID:1006 Login successful token:TOK-amal-967374
+Sun Apr 12 09:46:33 2026 | 127.0.0.1:52652 | 5173 | amal | logout | OK 200 SID:1006 Command accepted
+                                                                                                                          

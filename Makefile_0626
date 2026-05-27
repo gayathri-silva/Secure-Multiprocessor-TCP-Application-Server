@@ -1,0 +1,7 @@
+all: server_0626
+
+server_0626: server_0626.c
+	gcc -o server_0626 server_0626.c -lcrypt -Wall -Wextra -std=c99
+
+clean:
+	rm -f server_0626
